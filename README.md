@@ -2,7 +2,9 @@
 Spring-boot-oauth2-ResourceServer
 
 # 내용
-스프링 부트 기반 Oauth2 리소스 서버
+스프링 부트 기반 Oauth2 리소스 서버.
+인증서버로 받은 Bearer 토큰으로 리소스 서버의 자원에 접근 제어를 프로토타입으로 개발.
+인증서버와 마찬가지로 Oauth2 리소스 서버 또한 간편하고 용이하게 사용가능하나 직접 제작해봤습니다.
 
 # 개발 환경
 Spring Boot 2.1.6 / Maven 4.0.0 / Mybatis 2.1.0 / MySQL 5.6
