@@ -1,18 +1,14 @@
 package com.codejcd.service;
 
 import java.util.Date;
-
 import javax.xml.bind.DatatypeConverter;
-
 import org.apache.tomcat.util.codec.binary.Base64;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.PropertySource;
 import org.springframework.stereotype.Service;
-
 import com.codejcd.common.CustomException;
 import com.codejcd.common.MessageProperties;
 import com.codejcd.util.DateUtil;
-
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
 

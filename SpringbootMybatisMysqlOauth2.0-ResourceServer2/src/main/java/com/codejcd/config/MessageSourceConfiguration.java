@@ -9,8 +9,6 @@ import org.springframework.context.support.ReloadableResourceBundleMessageSource
 
 /**
  * 메시지 설정
- * @author Jeon
- *
  */
 @Configuration
 public class MessageSourceConfiguration {

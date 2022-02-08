@@ -12,8 +12,6 @@ import com.codejcd.service.TokenService;
 
 /**
  * 리소스 컨트롤러
- * @author Jeon
- *
  */
 @RestController
 public class ResourceController {

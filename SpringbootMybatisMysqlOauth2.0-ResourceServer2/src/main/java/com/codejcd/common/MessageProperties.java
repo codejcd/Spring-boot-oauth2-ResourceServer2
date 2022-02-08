@@ -6,11 +6,10 @@ import org.springframework.context.MessageSource;
 import org.springframework.context.MessageSourceAware;
 import org.springframework.stereotype.Component;
 import javax.servlet.http.HttpServletRequest;
+
 /**
  * Message Component
  * 커스터마이징 메시지 
- * @author Jeon
- *
  */
 @Component
 public class MessageProperties implements MessageSourceAware{
