@@ -1,4 +1,4 @@
-# Spring-boot-oauth2-ResourceServer2
+# Spring-boot-oauth2-ResourceServer
 Spring-boot-oauth2-ResourceServer
 
 # 내용
@@ -21,4 +21,5 @@ Authorization Code, Implicit, password credential, client credential 중 __passw
   * token: 인증 서버로 받은 Bearer token 값
 
 # 참고 
-인증 서버 : https://github.com/codejcd/Spring-boot-oauth2-AuthenticationServer2
+인증 서버 : https://github.com/codejcd/Spring-boot-oauth2-AuthenticationServer2   
+블로그 : https://codejcd.tistory.com/14
